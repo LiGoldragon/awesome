@@ -37,6 +37,7 @@ In no particular order
 - Ethics of liberty
 
 ### Hans-Hermann Hoppe
+- Economics and ethics of private property
 - Democracy, the god that failed
 
 ### Lysander Spooner
@@ -63,6 +64,17 @@ In no particular order
 
 ### James Clavell
 - Taipan
+- Gaijin
+- Whirlwind
+
+### Ernest Hemingway
+- For whom the bell tolls
+- The old man and the sea
+
+### William Gibson
+- Neuromancer
+- Virtual light
+- Pattern Recognition
 
 ### Immanuel Velikovsky
 - Worlds in collision
