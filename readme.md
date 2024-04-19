@@ -4,6 +4,18 @@ Note: So far, no work has been worthy of admiration. This is not surprising, giv
 ## Books
 In no particular order
 
+### Carlos Castaneda
+All works
+
+### Armando Torres
+All works
+
+### Taisha Abelar
+All works
+
+### Jason Breshears
+- The Lost Scriptures of Giza
+
 ### George Ivanovich Gurdjieff
 - Meetings with remarkable men
 - Life is real only then when 'I am'
