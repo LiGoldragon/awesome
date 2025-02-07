@@ -55,7 +55,7 @@ All works
 ### Immanuel Velikovsky
 - Worlds in collision
 
-### Law
+## Law
 
 ### Frederic Bastiat
 - The law
