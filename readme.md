@@ -4,7 +4,15 @@ title: Olivier Francoeur's Awesome
 
 # Books
 
-## Astrology/Magic
+## Astrology
+### Rudhyar
+- The Lunation Cycle
+- Zodiac as Universal Matrix
+- Astrological Aspects
+- The Planetarization of Consciousness
+- The Astrological Houses
+
+## Psycho-Magic
 
 ### Carlos Castaneda
 All works
