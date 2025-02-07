@@ -1,5 +1,4 @@
 # Li's Awesome
-Note: So far, no work has been worthy of admiration. This is not surprising, given that humanity has only just become conscious of itself in the midst of a multi-milleniae total war, putting to death/torturing every great thinker that rose from its ensnaring fascist-indoctrination (see Wilhelm Reich's 'murder of christ' and 'mass psychology of fascism').
 
 ## Books
 In no particular order
