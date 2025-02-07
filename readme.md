@@ -1,7 +1,10 @@
-# Li's Awesome
+---
+title: Olivier Francoeur's Awesome
+---
 
-## Books
-In no particular order
+# Books
+
+## Astrology/Magic
 
 ### Carlos Castaneda
 All works
@@ -11,9 +14,6 @@ All works
 
 ### Taisha Abelar
 All works
-
-### Jason Breshears
-- The Lost Scriptures of Giza
 
 ### George Ivanovich Gurdjieff
 - Meetings with remarkable men
@@ -32,9 +32,22 @@ All works
 - The fourth way
 - A new model of the universe
 
+### U.G Krishnamurti
+- The courage to stand alone
+
 ### Nietzsche
 - Thus spoke Zarathustra
 - Beyond Good and Evil
+
+## History/Archeology
+
+### Jason Breshears
+- The Lost Scriptures of Giza
+
+### Immanuel Velikovsky
+- Worlds in collision
+
+### Law
 
 ### Frederic Bastiat
 - The law
@@ -54,8 +67,7 @@ All works
 ### Lysander Spooner
 - The constitution of no authority
 
-### U.G Krishnamurti
-- The courage to stand alone
+## Fiction
 
 ### Frank Herbert
 - Dune
@@ -87,9 +99,5 @@ All works
 - Virtual light
 - Pattern Recognition
 
-### Immanuel Velikovsky
-- Worlds in collision
-
-## Videos
+# Videos
 - [Interview of UG Krisnamurti](https://www.youtube.com/watch?v=EQFrUKQfO4k)
-- [Chernobyl Serie](https://en.wikipedia.org/wiki/Chernobyl_(miniseries))
